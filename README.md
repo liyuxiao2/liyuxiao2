@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Liyu Xiao
 
 
-🎓 About Me
-I'm a Computer Science student at McMaster University (2024-2029) with a passion for software development and product design. Currently in my first year of the co-op program, I've already started gaining professional experience while maintaining a strong academic record (GPA: 3.96/4.00).
+
+
 💼 Experience
 Upcoming
 
