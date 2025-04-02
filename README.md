@@ -15,7 +15,6 @@ I'm a Computer Science student at McMaster University and an upcoming Software E
 
 ---
 
-### 🛠️ My Favourite Tools
 
 ### 🛠️ My Favourite Tools
 
