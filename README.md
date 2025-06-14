@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Liyu Xiao
 
-I'm a Computer Science student at McMaster University and an upcoming Software Engineering Intern at Qoherent. I'm passionate about building tools that solve real problems, whether it's helping merchants manage rentals or using AI to plan injury recovery workouts.
+I'm a Computer Science student at McMaster University and a Software Engineering Intern at Qoherent. I'm passionate about building tools that solve real problems and that saves time for people.
 
 ---
 
 ### 💼 Some Cool Stuff I’ve Done 😎
 
 **Software Engineering Intern @ Qoherent (May 2025 – Aug 2025)**  
-*Excited to build cutting-edge systems that push the boundaries of AI and hardware.*
+- ML/Full stack
+- Radio classification models 📡
 
 **Product Design Intern @ Yíká (Mar 2025 – May 2025)**  
-- Built dashboards using **Next.js** for rental tracking and merchant item management  
-- Developed **calendar-based availability systems** and **real-time tracking features**  
+- Designed UI interfaces🎨
 
 ---
 
