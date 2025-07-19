@@ -5,13 +5,13 @@ I'm a Computer Science student at McMaster University and a Software Engineering
 ---
 
 ### 💼 Some Cool Stuff I’ve Done 😎
+**Software Engineering Intern @ IBM (Incoming)**  
+- Incoming @ IBM
 
 **Software Engineering Intern @ Qoherent (May 2025 – Aug 2025)**  
 - ML/Full stack
 - Radio classification models 📡
 
-**Product Design Intern @ Yíká (Mar 2025 – May 2025)**  
-- Designed UI interfaces🎨
 
 ---
 
