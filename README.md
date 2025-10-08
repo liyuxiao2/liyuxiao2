@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Liyu Xiao
 
-I'm a Computer Science student at McMaster University and a Software Engineering Intern at Qoherent. I'm passionate about building tools that solve real problems and that saves time for people.
+I'm a Computer Science student at McMaster University and a Software Engineering Intern at IBM. I'm passionate about building tools that solve real problems and that saves time for people.
 
 ---
 
