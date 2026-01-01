@@ -6,10 +6,13 @@ I'm passionate about building tools that solve real problems and that saves time
 ---
 
 ### 💼 Some Cool Stuff I’ve Done 😎
+**Software Engineering Intern @Wealthsimple**  
+- Bank of Record (Ledger) Infrastructure
+
 **Software Engineering Intern @ IBM**  
 - Skills Network
 
-**Software Engineering Intern @ Qoherent (May 2025 – Aug 2025)**  
+**Software Engineering Intern @ Qoherent**  
 - ML/Full stack
 - Radio classification models 📡
 
