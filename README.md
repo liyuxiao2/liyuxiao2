@@ -6,6 +6,9 @@ I'm passionate about building tools that solve real problems and that saves time
 ---
 
 ### 💼 Some Cool Stuff I’ve Done 😎
+**Software Engineering Intern @Shopify**  
+- F26
+  
 **Software Engineering Intern @Wealthsimple**  
 - Bank of Record (Ledger) Infrastructure
 
@@ -13,7 +16,6 @@ I'm passionate about building tools that solve real problems and that saves time
 - Skills Network
 
 **Software Engineering Intern @ Qoherent**  
-- ML/Full stack
 - Radio classification models 📡
 
 
